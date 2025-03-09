@@ -13,7 +13,6 @@ function App() {
                 <main>
                     <Routes>
                         <Route path="/" element={<Login />} />
-                        {/* <Route path="/gallery" element={<Gallery />} /> */}
                     </Routes>
                 </main>
             </div>
